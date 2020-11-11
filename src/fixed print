@@ -1,0 +1,11 @@
+using System;
+					
+public class Program
+{
+  pulic static string word = "Hello Gus!";
+  
+	public static void Main()
+	{
+		Console.WriteLine(word);
+	}
+}
